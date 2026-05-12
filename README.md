@@ -36,7 +36,3 @@ Om du vill diskutera möjligheter, samarbeta eller bara nätverka är du varmt v
 
 💼 LinkedIn  
 https://www.linkedin.com/in/alfred-osewe-b414b12a8/
-
----
-
-⭐ *Kod handlar inte bara om att få något att fungera – utan om att skapa lösningar som är tydliga, hållbara och enkla att vidareutveckla.*
