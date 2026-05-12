@@ -1,5 +1,3 @@
-# Hej, jag är Alfred Osewe
-
 Jag är en **Fullstack .NET-utvecklare** med bakgrund inom webbutveckling och ett starkt intresse för att bygga moderna, skalbara och användarvänliga webbapplikationer.
 
 Jag arbetar främst med **C#, .NET och React** och tycker om att utveckla lösningar där frontend och backend samverkar.  
